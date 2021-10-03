@@ -1,0 +1,9 @@
+{
+    "id": "i-dont-need-assistance",
+    "version": "1.0.0",
+
+    "title": "I don't need assistance!",
+    "description": "Allows assist mode sliders to make the game harder, not just easier!",
+
+    "prestart": "prestart.js"
+}
